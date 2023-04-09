@@ -3,10 +3,8 @@ package com.example.retrofitexamplekotlin
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import androidx.viewbinding.ViewBinding
 import com.example.retrofitexamplekotlin.adapter.UsersAdapter
 import com.example.retrofitexamplekotlin.databinding.ActivityMainBinding
-import com.example.retrofitexamplekotlin.databinding.RowItemBinding
 import com.example.retrofitexamplekotlin.model.ResultUsers
 import com.example.retrofitexamplekotlin.services.NetworkConfig
 import retrofit2.Call
